@@ -2,7 +2,7 @@
 /* Attempt MySQL server connection. Assuming you are running MySQL
 server with default setting (user 'root' with no password) */
 //Database name = MyDB
-$link = mysqli_connect("localhost", "root", "", "mymerit");
+$link = mysqli_connect("localhost", "root", "f53rtg8d", "mymerit");
 
 // Check connection
 if($link === false){
